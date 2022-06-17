@@ -26,7 +26,7 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 ![4](https://user-images.githubusercontent.com/93427089/174312338-7a54a311-0c1e-45de-b137-f2e66bd6f700.png)
  
 ### OUTPUT:
-![out](https://user-images.githubusercontent.com/93427089/174312565-f0e0c5df-d3cb-40eb-8013-0995590d1bb5.jpeg)
+![out](https://user-images.githubusercontent.com/93427089/174313245-25b2950b-bcaf-4861-ae40-b1a45df8c92c.jpeg)
 
 ### RESULTS 
 The standard procedure to interface an FPGA board and flashing method using usb blaster has been understood.
